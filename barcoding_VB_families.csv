@@ -1,0 +1,25 @@
+Dataset,Category,count,percent
+Nymphalidae,Correct,119,58.0487804878
+Nymphalidae,Incorrect,48,23.4146341463
+Nymphalidae,Multiple,14,6.8292682927
+Nymphalidae,No match,24,11.7073170732
+Papilionidae,Correct,54,83.0769230769
+Papilionidae,Incorrect,3,4.6153846154
+Papilionidae,Multiple,2,3.0769230769
+Papilionidae,No match,6,9.2307692308
+Pieridae,Correct,25,50
+Pieridae,Incorrect,12,24
+Pieridae,Multiple,13,26
+Pieridae,No match,0,0
+Lycaenidae,Correct,11,37.9310344828
+Lycaenidae,Incorrect,5,17.2413793103
+Lycaenidae,Multiple,7,24.1379310345
+Lycaenidae,No match,6,20.6896551724
+Hesperiidae,Correct,7,35
+Hesperiidae,Incorrect,7,35
+Hesperiidae,Multiple,1,5
+Hesperiidae,No match,5,25
+Riodinidae,Correct,8,66.6666666667
+Riodinidae,Incorrect,4,33.3333333333
+Riodinidae,Multiple,0,0
+Riodinidae,No match,0,0

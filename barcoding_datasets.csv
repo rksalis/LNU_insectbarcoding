@@ -1,0 +1,13 @@
+Dataset,Category,count,percent
+Butterflies,Correct,358,50.780141844
+Butterflies,Incorrect,149,21.134751773
+Butterflies,Multiple,107,15.1773049645
+Butterflies,No match,91,12.9078014184
+Bumblebees,Correct,65,71.4285714286
+Bumblebees,Incorrect,12,13.1868131868
+Bumblebees,Multiple,14,15.3846153846
+Bumblebees,No match,0,0
+Parasitic wasps,Correct,40,25.8064516129
+Parasitic wasps,Incorrect,66,42.5806451613
+Parasitic wasps,Multiple,29,18.7096774194
+Parasitic wasps,No match,20,12.9032258065

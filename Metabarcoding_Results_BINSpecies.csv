@@ -1,0 +1,99 @@
+BIN,order,family,genus,species,Rep1,Rep2,Rep3,Rep5,Rep4,Rep7,Rep8,Rep6,Reads,Reads(exclRep6),BIN species,Morpho species,Individuals,Common Species,Split BINs,Unique BINs,BINs,Replicates,log_Individuals,log_Reads
+BOLD:AAJ2868,Lepidoptera,Nymphalidae,Acraea,Acraea issoria,0,0,0,0,26,0,0,0,26,26,Acraea issoria,Acraea issoria,19,x,,,1,1,2.944438979,3.258096538
+BOLD:AAJ1582,Lepidoptera,Nymphalidae,Argyreus,Argyreus hyperbius,360,443,306,162,725,343,675,0,3014,3014,Argyreus hyperbius,Argyreus hyperbius,332,x,,,1,7,5.805134969,8.011023379
+BOLD:AAJ9557,Lepidoptera,Nymphalidae,Athyma,Athyma asura,392,429,641,114,511,283,681,0,3051,3051,Athyma asura,Athyma asura,411,x,,,1,7,6.018593214,8.023224685
+BOLD:AAJ9556,Lepidoptera,Nymphalidae,Athyma,Athyma cama,31,55,30,19,70,57,83,0,345,345,Athyma cama,Athyma cama,282,x,,,1,7,5.641907071,5.843544417
+BOLD:ADL1909,Lepidoptera,Nymphalidae,Athyma,Athyma orientalis,167,355,166,98,326,318,307,0,1737,1737,Athyma orientalis,Athyma orientalis,277,x,,,1,7,5.624017506,7.459914766
+BOLD:ACA1475,Lepidoptera,Nymphalidae,Athyma,Athyma selenophora,0,0,0,0,10,0,0,0,10,10,Athyma selenophora,Athyma selenophora,16,x,,,1,1,2.772588722,2.302585093
+BOLD:ADL2274,Lepidoptera,Papilionidae,Atrophaneura,Atrophaneura aidoneus,244,298,534,121,577,188,324,0,2286,2286,Atrophaneura aidoneus,Atrophaneura aidoneus,77,x,,,1,7,4.343805422,7.734558844
+BOLD:ADL0800,Lepidoptera,Hesperiidae,Burara,Burara vasutana,0,0,25,0,0,0,0,0,25,25,Burara vasutana,Burara vasutana,13,x,,,1,1,2.564949357,3.218875825
+BOLD:ADL2497,Lepidoptera,Papilionidae,Byasa,Byasa crassipes,144,29,187,0,108,158,144,0,770,770,Byasa crassipes,Byasa crassipes,69,x,,,1,6,4.234106505,6.646390515
+BOLD:AAJ8738,Lepidoptera,Papilionidae,Byasa,Byasa polyeuctes,420,831,850,165,1147,468,1281,0,5162,5162,Byasa polyeuctes,Byasa polyeuctes,291,x,,,1,7,5.673323267,8.54907938
+BOLD:ACH3444,Lepidoptera,Nymphalidae,Calinaga,Calinaga sudassana,832,1174,1010,299,1747,828,1431,0,7321,7321,Calinaga sudassana,,,,,x,1,7,,8.89850221
+BOLD:AAK1950,Lepidoptera,Nymphalidae,Callerebia,Callerebia polyphemus,0,52,80,0,0,53,85,0,270,270,Callerebia polyphemus,,,,,x,1,4,,5.598421959
+BOLD:ACQ2590,Lepidoptera,Nymphalidae,Cethosia,Cethosia biblis,1340,2298,1638,630,2677,1992,3085,6,13660,13660,Cethosia biblis,Cethosia biblis,1143,x,,,1,7,7.041411664,9.522227133
+BOLD:ADL1630,Lepidoptera,Papilionidae,Papilio,Chilasa agestor,18,200,89,0,0,336,0,0,643,643,Chilasa agestor,Chilasa agestor,8,x,,,1,4,2.079441542,6.466144724
+,Lepidoptera,Papilionidae,Chilasa,Chilasa epycides,558,743,929,295,700,744,1014,0,4983,4983,Chilasa epycides,Chilasa epycides,1214,x,x,,2,7,7.101675972,8.513787398
+,Lepidoptera,Nymphalidae,Childrena,Childrena childreni,356,565,407,151,586,526,1126,0,5526,3717,Childrena childreni,Childrena childreni,300,x,x,,2,7,5.703782475,8.22067217
+BOLD:ACV7130,Lepidoptera,Hesperiidae,Choaspes,Choaspes benjaminii,0,0,0,0,27,0,0,0,27,27,Choaspes benjaminii,Choaspes benjaminii,21,x,,,1,1,3.044522438,3.295836866
+BOLD:AAN1184,Lepidoptera,Hesperiidae,Choaspes,Choaspes xanthopogon,0,0,33,0,0,0,0,0,33,33,Choaspes xanthopogon,,,,,x,1,1,,3.496507561
+BOLD:AAI9669,Lepidoptera,Nymphalidae,Cyrestis,Cyrestis thyodamas,0,0,0,0,23,0,0,0,23,23,Cyrestis thyodamas,Cyrestis thyodamas,6,x,,,1,1,1.791759469,3.135494216
+,Lepidoptera,Nymphalidae,Danaus,Danaus genutia,594,1002,915,204,1068,850,893,0,5526,5526,Danaus genutia,Danaus genutia,1425,x,x,,2,7,7.261927093,8.617219505
+BOLD:ACA1665,Lepidoptera,Pieridae,Delias,Delias pasithoe,251,174,254,109,364,147,582,0,1881,1881,Delias pasithoe,Delias pasithoe,355,x,,,1,7,5.872117789,7.539558829
+BOLD:AAI9570,Lepidoptera,Pieridae,Delias,Delias sububila,23,39,41,14,44,62,62,0,285,285,Delias sububila,,,,,x,1,7,,5.65248918
+BOLD:AAE7537,Lepidoptera,Nymphalidae,Dichorragia,Dichorragia nesimachus,0,64,0,0,0,0,0,0,64,64,Dichorragia nesimachus,Dichorragia nesimachus,32,x,,,1,1,3.465735903,4.158883083
+BOLD:ADJ8787,Lepidoptera,Riodinidae,Dodona,Dodona adonira,0,16,0,0,0,0,0,0,16,16,Dodona adonira,Dodona adonira,11,x,,,1,1,2.397895273,2.772588722
+BOLD:AAK9513,Lepidoptera,Nymphalidae,Elymnias,Elymnias malelas,0,0,0,0,28,0,0,0,28,28,Elymnias malelas,Elymnias malelas,2,x,,,1,1,0.6931471806,3.33220451
+BOLD:ADL1334,Lepidoptera,Nymphalidae,Enispe,Enispe cycnus,0,0,0,0,0,53,54,0,107,107,Enispe cycnus,Enispe cycnus,14,x,,,1,2,2.63905733,4.672828834
+,Lepidoptera,Nymphalidae,Euploea,Euploea eunice,0,0,0,0,33,0,104,0,137,137,Euploea eunice,Euploea eunice,40,x,x,,2,2,3.688879454,4.919980926
+BOLD:AAL5461,Lepidoptera,Nymphalidae,Euploea,Euploea mulciber,1027,1232,936,345,1581,1407,1459,0,7987,7987,Euploea mulciber,Euploea mulciber,3588,x,,,1,7,8.185350223,8.985570499
+BOLD:AAA6082,Lepidoptera,Pieridae,Eurema,Eurema hecabe,0,0,0,0,34,0,0,0,34,34,Eurema hecabe,Eurema hecabe,3,x,,,1,1,1.098612289,3.526360525
+BOLD:ADL1155,Lepidoptera,Nymphalidae,Euthalia,Euthalia iva,0,0,32,0,0,0,0,0,32,32,Euthalia iva,Euthalia iva,13,x,,,1,1,2.564949357,3.465735903
+BOLD:ADL2123,Lepidoptera,Nymphalidae,Euthalia,Euthalia lubentina,0,0,51,0,65,0,127,0,243,243,Euthalia lubentina,Euthalia lubentina,22,x,,,1,3,3.091042453,5.493061443
+BOLD:ADL1054,Lepidoptera,Nymphalidae,Euthalia,Euthalia monastyrskiyi,0,13,0,0,0,0,0,0,13,13,Euthalia monastyrskiyi,,,,,x,1,1,,2.564949357
+BOLD:ADL1194,Lepidoptera,Nymphalidae,Euthalia,Euthalia narayana,0,24,0,0,0,0,0,0,24,24,Euthalia narayana,,,,,x,1,1,,3.17805383
+BOLD:AAD7189,Lepidoptera,Papilionidae,Graphium,Graphium agamemnon,0,0,12,0,0,0,0,0,12,12,Graphium agamemnon,Graphium agamemnon,15,x,,,1,1,2.708050201,2.48490665
+BOLD:ADL0978,Lepidoptera,Papilionidae,Graphium,Graphium agetes,14,23,0,11,151,13,11,0,223,223,Graphium agetes,Graphium agetes,43,x,,,1,6,3.761200116,5.407171771
+BOLD:ACD8413,Lepidoptera,Papilionidae,Graphium,Graphium chironides,0,0,0,26,0,30,0,0,56,56,Graphium chironides,Graphium chironides,60,x,,,1,2,4.094344562,4.025351691
+BOLD:AAW0492,Lepidoptera,Papilionidae,Graphium,Graphium cloanthus,46,32,48,0,44,56,168,0,394,394,Graphium cloanthus,Graphium cloanthus,116,x,,,1,6,4.753590191,5.976350909
+BOLD:AAY2201,Lepidoptera,Papilionidae,Graphium,Graphium doson,0,0,26,0,0,0,0,0,26,26,Graphium doson,Graphium doson,3,x,,,1,1,1.098612289,3.258096538
+BOLD:ADL0250,Lepidoptera,Papilionidae,Graphium,Graphium leechi,281,225,193,64,417,157,463,0,1800,1800,Graphium leechi,Graphium leechi,454,x,,,1,7,6.118097198,7.495541944
+,Lepidoptera,Papilionidae,Graphium,Graphium sarpedon,307,431,489,110,459,229,641,0,2666,2666,Graphium sarpedon,Graphium sarpedon,152,x,x,,2,7,5.023880521,7.888334501
+BOLD:AAE7041,Lepidoptera,Pieridae,Hebomoia,Hebomoia glaucippe,33,45,73,0,34,41,49,0,275,275,Hebomoia glaucippe,Hebomoia glaucippe,52,x,,,1,6,3.951243719,5.616771098
+BOLD:ADL1899,Lepidoptera,Lycaenidae,Heliophorus,Heliophorus brahma,0,0,0,0,32,0,0,0,32,32,Heliophorus brahma,Heliophorus brahma,1,x,,,1,1,0,3.465735903
+BOLD:AAI8379,Lepidoptera,Nymphalidae,Hestina,Hestina assimilis,1940,2337,3004,666,4656,2620,3725,0,18948,18948,Hestina assimilis,Hestina assimilis,637,x,,,1,7,6.456769656,9.849453664
+BOLD:ACA3156,Lepidoptera,Nymphalidae,Hestina,Hestina nama,239,200,290,114,149,272,112,0,1376,1376,Hestina nama,Hestina nama,149,x,,,1,7,5.003946306,7.226936018
+BOLD:AAB7950,Lepidoptera,Nymphalidae,Hypolimnas,Hypolimnas bolina,19,12,46,31,60,124,13,0,305,305,Hypolimnas bolina,Hypolimnas bolina,201,x,,,1,7,5.303304908,5.720311777
+BOLD:AAE2153,Lepidoptera,Nymphalidae,Junonia,Junonia almana,0,0,0,0,23,23,0,0,46,46,Junonia almana,Junonia almana,56,x,,,1,2,4.025351691,3.828641396
+BOLD:AAE2156,Lepidoptera,Nymphalidae,Junonia,Junonia atlites,0,114,50,0,71,71,0,0,306,306,Junonia atlites,Junonia atlites,111,x,,,1,4,4.709530201,5.723585102
+BOLD:ABZ6191,Lepidoptera,Nymphalidae,Junonia,Junonia orithya,0,0,0,0,19,0,21,0,40,40,Junonia orithya,Junonia orithya,59,x,,,1,2,4.077537444,3.688879454
+BOLD:AAD4857,Lepidoptera,Nymphalidae,Kaniska,Kaniska canace,21,25,0,0,0,0,0,0,46,46,Kaniska canace,Kaniska canace,24,x,,,1,2,3.17805383,3.828641396
+BOLD:ACD6834,Lepidoptera,Papilionidae,Lamproptera,Lamproptera curius,0,41,0,0,0,34,0,0,75,75,Lamproptera curius,Lamproptera curius,72,x,,,1,2,4.276666119,4.317488114
+BOLD:ADL0937,Lepidoptera,Nymphalidae,Lethe,Lethe bhairava,0,0,0,0,26,0,0,0,26,26,Lethe bhairava,Lethe bhairava,1,x,,,1,1,0,3.258096538
+BOLD:AAK9221,Lepidoptera,Nymphalidae,Lethe,Lethe confusa,0,0,7,0,0,0,0,0,7,7,Lethe confusa,Lethe confusa,15,x,,,1,1,2.708050201,1.945910149
+BOLD:AAN9736,Lepidoptera,Nymphalidae,Lethe,Lethe dura,0,0,0,0,21,0,0,0,21,21,Lethe dura,Lethe dura,1,x,,,1,1,0,3.044522438
+BOLD:ADL1514,Lepidoptera,Nymphalidae,Lethe,Lethe sinorix,21,0,18,0,0,0,0,0,39,39,Lethe sinorix,Lethe sinorix,13,x,,,1,2,2.564949357,3.663561646
+BOLD:AAN3545,Lepidoptera,Nymphalidae,Lethe,Lethe verma,24,101,62,55,35,219,162,0,658,658,Lethe verma,Lethe verma,123,x,,,1,7,4.812184355,6.489204931
+BOLD:ABZ6145,Lepidoptera,Nymphalidae,Melanitis,Melanitis leda,27,44,40,26,24,55,68,0,284,284,Melanitis leda,Melanitis leda,196,x,,,1,7,5.278114659,5.648974238
+BOLD:ADL1598,Lepidoptera,Nymphalidae,Mycalesis,Mycalesis francisca,0,0,0,0,0,16,0,0,16,16,Mycalesis francisca,Mycalesis francisca,1,x,,,1,1,0,2.772588722
+BOLD:ADL1331,Lepidoptera,Nymphalidae,Neope,Neope armandii,0,0,0,0,0,6,0,0,6,6,Neope armandii,Neope armandii,7,x,,,1,1,1.945910149,1.791759469
+,Lepidoptera,Nymphalidae,Neope,Neope pulaha,0,69,48,0,81,0,0,0,198,198,Neope pulaha,Neope pulaha,40,x,x,,2,3,3.688879454,5.288267031
+BOLD:ADL0827,Lepidoptera,Nymphalidae,Neorina,Neorina patria,0,0,0,0,0,0,10,0,10,10,Neorina patria,Neorina patria,42,x,,,1,1,3.737669618,2.302585093
+,Lepidoptera,Nymphalidae,Neptis,Neptis hylas,107,123,121,31,456,29,481,0,1348,1348,Neptis hylas,Neptis hylas,70,x,x,,3,7,4.248495242,7.206377291
+BOLD:AAJ9688,Lepidoptera,Papilionidae,Pachliopta,Pachliopta aristolochiae,4914,7759,5521,1632,8770,6858,8857,12,44311,44311,Pachliopta aristolochiae,Pachliopta aristolochiae,2844,x,,,1,7,7.952966791,10.69898823
+BOLD:AAX2577,Lepidoptera,Papilionidae,Papilio,Papilio arcturus,51,94,135,34,111,91,143,0,659,659,Papilio arcturus,Papilio arcturus,107,x,,,1,7,4.672828834,6.490723535
+BOLD:AAC3024,Lepidoptera,Papilionidae,Papilio,Papilio bianor,1450,2017,1688,468,2368,2185,2345,0,12521,12521,Papilio bianor,Papilio bianor,1760,x,,,1,7,7.473069088,9.435162514
+BOLD:AAD6030,Lepidoptera,Papilionidae,Papilio,Papilio demoleus,0,42,0,0,0,0,0,0,42,42,Papilio demoleus,Papilio demoleus,7,x,,,1,1,1.945910149,3.737669618
+BOLD:AAX2752,Lepidoptera,Papilionidae,Papilio,Papilio doddsi,380,603,541,165,833,595,1033,0,4150,4150,Papilio doddsi,Papilio doddsi,186,x,,,1,7,5.225746674,8.330863613
+BOLD:AAI5276,Lepidoptera,Papilionidae,Papilio,Papilio helenus,456,449,454,175,699,278,731,0,3242,3242,Papilio helenus,Papilio helenus,414,x,,,1,7,6.025865974,8.083945702
+BOLD:ACE8137,Lepidoptera,Papilionidae,Papilio,Papilio karna,97,110,104,36,145,201,229,0,922,922,Papilio karna,,,,,x,1,7,,6.826545224
+BOLD:AAE6788,Lepidoptera,Papilionidae,Papilio,Papilio memnon,45,19,18,0,12,0,61,0,155,155,Papilio memnon,Papilio memnon,87,x,,,1,5,4.465908119,5.043425117
+BOLD:AAI5283,Lepidoptera,Papilionidae,Papilio,Papilio nephelus,0,95,0,0,0,0,81,0,176,176,Papilio nephelus,Papilio nephelus,45,x,,,1,2,3.80666249,5.170483995
+,Lepidoptera,Papilionidae,Papilio,Papilio paris,808,873,908,232,1262,1100,1515,0,6698,6698,Papilio paris,Papilio paris,900,x,x,,2,7,6.802394763,8.809564253
+BOLD:ACF5598,Lepidoptera,Papilionidae,Papilio,Papilio polyctor,65,163,143,32,129,56,160,0,748,748,Papilio polyctor,,,,,x,1,7,,6.617402978
+BOLD:AAI6158,Lepidoptera,Papilionidae,Papilio,Papilio polytes,28,0,10,14,15,67,44,0,178,178,Papilio polytes,Papilio polytes,23,x,,,1,6,3.135494216,5.18178355
+BOLD:AAI6157,Lepidoptera,Papilionidae,Papilio,Papilio protenor,1233,1897,1788,559,2981,1720,3084,0,13262,13262,Papilio protenor,Papilio protenor,2737,x,,,1,7,7.914617709,9.492658082
+BOLD:AAZ4523,Lepidoptera,Nymphalidae,Parantica,Parantica aglea,0,20,0,0,0,36,0,0,56,56,Parantica aglea,Parantica aglea,81,x,,,1,2,4.394449155,4.025351691
+BOLD:AAX2471,Lepidoptera,Nymphalidae,Parantica,Parantica melaneus,0,0,0,0,74,0,0,0,74,74,Parantica melaneus,Parantica melaneus,4,x,,,1,1,1.386294361,4.304065093
+BOLD:ADL0536,Lepidoptera,Nymphalidae,Parantica,Parantica sita,0,0,12,0,6,0,0,0,18,18,Parantica sita,Parantica sita,289,x,,,1,2,5.666426688,2.890371758
+,Lepidoptera,Nymphalidae,Parasarpa,Parasarpa dudu,39,90,0,0,84,98,0,0,311,311,Parasarpa dudu,Parasarpa dudu,71,x,x,,2,4,4.262679877,5.739792912
+BOLD:ACX3791,Lepidoptera,Hesperiidae,Parnara,Parnara ganga,0,0,0,0,61,0,0,0,61,61,Parnara ganga,Parnara ganga,1,x,,,1,1,0,4.110873864
+BOLD:AAL8427,Lepidoptera,Nymphalidae,Parthenos,Parthenos sylvia,42,42,71,0,38,42,0,0,235,235,Parthenos sylvia,Parthenos sylvia,27,x,,,1,5,3.295836866,5.459585514
+,Lepidoptera,Pieridae,Pieris,Pieris canidia,0,124,175,0,107,118,240,0,764,764,Pieris canidia,Pieris canidia,152,x,x,,2,5,5.023880521,6.638567789
+,Lepidoptera,Pieridae,Pieris,Pieris rapae,105,65,64,66,0,0,0,0,300,300,Pieris rapae,Pieris rapae,19,x,x,,2,4,2.944438979,5.703782475
+BOLD:AAD9073,Lepidoptera,Nymphalidae,Polygonia,Polygonia c-aureum,0,0,0,0,53,0,0,0,53,53,Polygonia c-aureum,Polygonia c-aureum,12,x,,,1,1,2.48490665,3.970291914
+BOLD:ACD7373,Lepidoptera,Nymphalidae,Polyura,Polyura dolon,0,0,24,20,39,47,45,0,175,175,Polyura dolon,Polyura dolon,71,x,,,1,5,4.262679877,5.164785974
+BOLD:ACA1612,Lepidoptera,Pieridae,Prioneris,Prioneris thestylis,0,0,0,0,99,0,0,0,99,99,Prioneris thestylis,Prioneris thestylis,62,x,,,1,1,4.127134385,4.59511985
+BOLD:ADL0772,Lepidoptera,Nymphalidae,Pseudergolis,Pseudergolis wedah,215,329,309,82,458,388,336,0,2117,2117,Pseudergolis wedah,Pseudergolis wedah,153,x,,,1,7,5.030437921,7.657755271
+BOLD:ADL0521,Lepidoptera,Nymphalidae,Stibochiona,Stibochiona nicea,0,28,0,0,42,53,0,0,123,123,Stibochiona nicea,Stibochiona nicea,51,x,,,1,3,3.931825633,4.812184355
+BOLD:ADC7557,Lepidoptera,Nymphalidae,Stichophthalma,Stichophthalma louisa,12,29,52,0,30,27,51,0,201,201,Stichophthalma louisa,,,,,x,1,6,,5.303304908
+BOLD:ABX9996,Lepidoptera,Nymphalidae,Sumalia,Sumalia daraxa,56,17,34,15,36,27,57,0,242,242,Sumalia daraxa,Sumalia daraxa,114,x,,,1,7,4.736198448,5.488937726
+BOLD:AAI0236,Lepidoptera,Nymphalidae,Symbrenthia,Symbrenthia lilaea,48,32,135,10,137,55,172,0,589,589,Symbrenthia lilaea,Symbrenthia lilaea,160,x,,,1,7,5.075173815,6.378426184
+BOLD:AAK0507,Lepidoptera,Pieridae,Talbotia,Talbotia naganum,0,0,0,0,6,0,0,0,6,6,Talbotia naganum,Talbotia naganum,99,x,,,1,1,4.59511985,1.791759469
+BOLD:AAC1308,Lepidoptera,Nymphalidae,Tirumala,Tirumala septentrionis,796,753,843,209,1385,417,1029,0,5432,5432,Tirumala septentrionis,Tirumala septentrionis,706,x,,,1,7,6.559615237,8.600062669
+BOLD:ABY8818,Lepidoptera,Papilionidae,Troides,Troides aeacus,34,0,33,0,34,22,24,0,147,147,Troides aeacus,Troides aeacus,47,x,,,1,5,3.850147602,4.990432587
+BOLD:AAA5337,Lepidoptera,Nymphalidae,Vanessa,Vanessa cardui,0,0,0,0,65,0,0,0,65,65,Vanessa cardui,Vanessa cardui,51,x,,,1,1,3.931825633,4.17438727
+BOLD:AAF0350,Lepidoptera,Nymphalidae,Vanessa,Vanessa indica,40,51,36,0,49,15,58,0,249,249,Vanessa indica,Vanessa indica,124,x,,,1,6,4.820281566,5.517452896
+BOLD:ACD4058,Lepidoptera,Nymphalidae,Vindula,Vindula erota,467,535,619,141,779,546,870,0,3957,3957,Vindula erota,Vindula erota,142,x,,,1,7,4.955827058,8.283241441
+BOLD:ACS5043,Lepidoptera,Riodinidae,Zemeros,Zemeros flegyas,0,48,0,0,0,70,0,0,118,118,Zemeros flegyas,Zemeros flegyas,48,x,,,1,2,3.871201011,4.770684624
+,,,,,,,,,,,,,,,,,,,,,109,0,,
